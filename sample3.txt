@@ -1,0 +1,1 @@
+this is text in sample3.txt file
