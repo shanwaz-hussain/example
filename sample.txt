@@ -1,3 +1,7 @@
 this is text in sample.txt file
 added some txt when on feature branch in terminal
+<<<<<<< HEAD
 this another updation to sample txt file
+=======
+updated sample.txt file with this txt
+>>>>>>> a668478ba3a7ec3f69725c89ecbe2055d89eaecd
