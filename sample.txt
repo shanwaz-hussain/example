@@ -1,2 +1,3 @@
 this is text in sample.txt file
 added some txt when on feature branch in terminal
+updated sample.txt file with this txt
